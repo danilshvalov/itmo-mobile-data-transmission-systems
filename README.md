@@ -6,8 +6,8 @@
 
 ## Работы
 
-- Реферат про ZFS ([PDF](report/report.pdf))
-- Презентация про ZFS ([PDF](presentation/presentation.pdf), [PPTX](presentation/presentation.pptx))
+- Реферат про Zigbee ([PDF](report/report.pdf))
+- Презентация про Zigbee ([PDF](presentation/presentation.pdf), [PPTX](presentation/presentation.pptx))
 
 ## Контакты
 
